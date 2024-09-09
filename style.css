@@ -1,0 +1,64 @@
+body
+{
+    background-color: lightblue;
+}
+
+P
+{
+    background-color: black;
+}
+
+li1
+{
+    color: lightblue;
+}
+
+button
+{
+    background-color: lightblue;
+}
+
+h1
+{
+    font-size: 16em; /* 40px/16=2.5em */
+}
+
+h2
+{
+    color: lightblue;
+}
+
+h1
+{
+    color: orange;
+}
+
+li
+{
+    color: purple
+}
+
+h1
+  {
+    font-style: italic;
+  }
+
+li
+{
+    font-style: italic;
+}
+
+li1
+{
+    font-style: italic;
+}
+
+a
+{
+    font-style: italic;
+}
+
+h1
+{
+    text-decoration-line: underline;
+}
